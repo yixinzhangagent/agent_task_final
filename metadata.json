@@ -1,0 +1,6 @@
+{
+  "name": "StructBio Workbench — 3D 蛋白质结构与 AlphaFold 置信度分析平台",
+  "description": "集成 AlphaFold DB 与 RCSB PDB 的交互式 3D 大分子结构工作台，支持 pLDDT 置信度分析、PAE 误差矩阵、序列残基联动定位与无序区结构评估。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
